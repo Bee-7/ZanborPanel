@@ -16,7 +16,7 @@ https://Domain.com/folder/install/install.html
 - وارد سرور خود شوید.
 - دستور زیر رو برای نصب ربات ارسال کنید.
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/ZanborPanel/ZanborPanel/main/zanbor.sh)
+bash <(curl -s https://raw.githubusercontent.com/Bee-7/ZanborPanel/main/zanbor.sh)
 ```
 - بعد از اجرای این دستور باید کمی صبر کنید تا به مرحله وارد کردن دامنه برسید.
 - دامنه اتون را بدون `http` و `https` وارد کنید ( حتما باید `SSL` دامنه فعال باشد )
@@ -30,7 +30,7 @@ bash <(curl -s https://raw.githubusercontent.com/ZanborPanel/ZanborPanel/main/za
 ## آموزش آپدیت ربات
 - برای آپدیت ربات به اخرین نسخه فقط کافیست دستور زیر را اجرا کنید :
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/ZanborPanel/ZanborPanel/main/update.sh)
+bash <(curl -s https://raw.githubusercontent.com/Bee-7/ZanborPanel/main/update.sh)
 ```
 - بعد از اجرای این دستور , برای آپدیت دستور `1` را ارسال کنید و سپس `y`
 
